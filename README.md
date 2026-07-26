@@ -1,1 +1,16 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
+## Binary Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
+<!---LeetCode Topics End-->
