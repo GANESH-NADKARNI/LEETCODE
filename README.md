@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0198-house-robber) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
