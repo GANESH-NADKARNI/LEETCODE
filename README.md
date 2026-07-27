@@ -61,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3521-find-product-recommendation-pairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3521-find-product-recommendation-pairs) |
+| [3564-seasonal-sales-analysis](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3564-seasonal-sales-analysis) |
 <!---LeetCode Topics End-->
