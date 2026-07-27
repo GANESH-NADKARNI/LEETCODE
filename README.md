@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [3521-find-product-recommendation-pairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3521-find-product-recommendation-pairs) |
 <!---LeetCode Topics End-->
