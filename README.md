@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0319-bulb-switcher](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
