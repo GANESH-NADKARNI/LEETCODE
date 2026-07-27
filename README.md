@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0478-generate-random-point-in-a-circle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1227-airplane-seat-assignment-probability](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [1227-airplane-seat-assignment-probability](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0319-bulb-switcher) |
+| [1227-airplane-seat-assignment-probability](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0470-implement-rand10-using-rand7) |
+| [1227-airplane-seat-assignment-probability](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 ## Geometry
 |  |
 | ------- |
