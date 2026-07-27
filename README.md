@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [3019-number-of-changing-keys](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3019-number-of-changing-keys) |
 ## Counting
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0478-generate-random-point-in-a-circle) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
