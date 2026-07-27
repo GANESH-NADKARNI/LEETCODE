@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 ## String
 |  |
@@ -59,9 +61,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
 |  |
