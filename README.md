@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0178-rank-scores) |
 | [3521-find-product-recommendation-pairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3564-seasonal-sales-analysis) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
