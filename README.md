@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0075-sort-colors) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0089-gray-code) |
 | [0784-letter-case-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1238-circular-permutation-in-binary-representation) |
