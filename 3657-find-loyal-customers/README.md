@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-loyal-customers">4025. Find Loyal Customers</a></h2><h3>Medium</h3><hr><p>Table: <code>customer_transactions</code></p>
+<h2><a href="https://leetcode.com/problems/find-loyal-customers">3657. Find Loyal Customers</a></h2><h3>Medium</h3><hr><p>Table: <code>customer_transactions</code></p>
 
 <pre>
 +------------------+---------+
