@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/airplane-seat-assignment-probability">1362. Airplane Seat Assignment Probability</a></h2><h3>Medium</h3><hr><p><code>n</code> passengers board an airplane with exactly <code>n</code> seats. The first passenger has lost the ticket and picks a seat randomly. But after that, the rest of the passengers will:</p>
+<h2><a href="https://leetcode.com/problems/airplane-seat-assignment-probability">1227. Airplane Seat Assignment Probability</a></h2><h3>Medium</h3><hr><p><code>n</code> passengers board an airplane with exactly <code>n</code> seats. The first passenger has lost the ticket and picks a seat randomly. But after that, the rest of the passengers will:</p>
 
 <ul>
 	<li>Take their own seat if it is still available, and</li>
