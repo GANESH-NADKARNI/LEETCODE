@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-emotionally-consistent-users">4208. Find Emotionally Consistent Users</a></h2><h3>Medium</h3><hr><p>Table: <code>reactions</code></p>
+<h2><a href="https://leetcode.com/problems/find-emotionally-consistent-users">3808. Find Emotionally Consistent Users</a></h2><h3>Medium</h3><hr><p>Table: <code>reactions</code></p>
 
 <pre>
 +--------------+---------+
