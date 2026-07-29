@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/seasonal-sales-analysis">3898. Seasonal Sales Analysis</a></h2><h3>Medium</h3><hr><p>Table: <code>sales</code></p>
+<h2><a href="https://leetcode.com/problems/seasonal-sales-analysis">3564. Seasonal Sales Analysis</a></h2><h3>Medium</h3><hr><p>Table: <code>sales</code></p>
 
 <pre>
 +---------------+---------+
