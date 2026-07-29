@@ -4,16 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Array
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Brainteaser
 |  |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0260-single-number-iii) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
