@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [3174-clear-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Brainteaser
 |  |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [3174-clear-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3174-clear-digits) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3612-process-string-with-special-operations-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3701-compute-alternating-sum) |
