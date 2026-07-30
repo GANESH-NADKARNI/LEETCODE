@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0085-maximal-rectangle) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0089-gray-code) |
 | [0784-letter-case-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1238-circular-permutation-in-binary-representation) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0190-reverse-bits) |
