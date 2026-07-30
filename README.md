@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1268-search-suggestions-system) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
+| [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1268-search-suggestions-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
+| [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0321-create-maximum-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
+| [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
