@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2540-minimum-common-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3174-clear-digits) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
