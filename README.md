@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3941-password-strength) |
 ## Counting
 |  |
 | ------- |
