@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0500-keyboard-row) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0478-generate-random-point-in-a-circle) |
+| [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2487-remove-nodes-from-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
@@ -920,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 ## Union-Find
