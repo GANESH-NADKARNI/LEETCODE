@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2126-destroying-asteroids) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
+| [1980-find-unique-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1980-find-unique-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1980-find-unique-binary-string) |
 ## Counting Sort
 |  |
 | ------- |
