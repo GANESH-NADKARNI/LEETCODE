@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
