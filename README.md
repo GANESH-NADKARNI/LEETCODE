@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0709-to-lower-case) |
 | [0784-letter-case-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0784-letter-case-permutation) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1154-day-of-the-year) |
