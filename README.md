@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0415-add-strings) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0503-next-greater-element-ii) |
