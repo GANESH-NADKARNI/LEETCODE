@@ -3,11 +3,10 @@
  * @param {number} t milliseconds
  * @return {Function}
  */
-var debounce = function(fn, t) {
-    let timer = null
-
+var debounce = function(fn, t = 1000) {
+    let timer;
     return function(...args) {
-        clearTimeout(timer);                       
+        clearTimeout(timer);
         timer = setTimeout(() => fn(...args), t);
     }
 };
