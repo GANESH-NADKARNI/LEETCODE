@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3516-find-closest-person) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
