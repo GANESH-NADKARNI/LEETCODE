@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0089-gray-code) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0171-excel-sheet-column-number) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0136-single-number) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0415-add-strings) |
