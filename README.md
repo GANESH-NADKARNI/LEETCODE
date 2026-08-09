@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0456-132-pattern) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0400-nth-digit](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0470-implement-rand10-using-rand7](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
@@ -950,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0284-peeking-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0901-online-stock-span](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1603-design-parking-system) |
