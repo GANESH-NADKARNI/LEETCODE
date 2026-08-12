@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -1034,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1572-matrix-diagonal-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
