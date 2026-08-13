@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0464-can-i-win](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0464-can-i-win](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0464-can-i-win) |
 | [0693-binary-number-with-alternating-bits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1238-circular-permutation-in-binary-representation) |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
@@ -1105,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1170,4 +1175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
