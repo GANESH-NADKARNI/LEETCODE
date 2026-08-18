@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0349-intersection-of-two-arrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
