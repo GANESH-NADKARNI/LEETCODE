@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0809-expressive-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0809-expressive-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [0809-expressive-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0809-expressive-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
 | [0809-expressive-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0809-expressive-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
