@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0575-distribute-candies) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
+| [0895-maximum-frequency-stack](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0895-maximum-frequency-stack](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0946-validate-stack-sequences) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0284-peeking-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
+| [0895-maximum-frequency-stack](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1603-design-parking-system) |
 ## Iterator
@@ -1175,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0456-132-pattern) |
+| [0895-maximum-frequency-stack](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 ## Binary Indexed Tree
 |  |
 | ------- |
