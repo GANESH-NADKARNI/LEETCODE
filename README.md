@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3101-count-alternating-subarrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3101-count-alternating-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
