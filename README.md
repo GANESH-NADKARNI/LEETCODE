@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0665-non-decreasing-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0739-daily-temperatures) |
