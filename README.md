@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 ## Interactive
 |  |
 | ------- |
@@ -1234,4 +1236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0464-can-i-win) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
