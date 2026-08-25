@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2079-watering-plants) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1927-sum-game) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2235-add-two-integers) |
 | [2317-maximum-xor-after-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
 | [2396-strictly-palindromic-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2396-strictly-palindromic-number) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2390-removing-stars-from-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -1116,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2614-prime-in-diagonal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [3546-equal-sum-grid-partition-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
