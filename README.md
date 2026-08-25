@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1641-count-sorted-vowel-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
