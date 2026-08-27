@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1720-decode-xored-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2317-maximum-xor-after-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
