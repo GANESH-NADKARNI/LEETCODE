@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
