@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0551-student-attendance-record-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0551-student-attendance-record-i) |
