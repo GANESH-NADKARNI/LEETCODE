@@ -1,20 +1,17 @@
 class Solution {
 public:
     int partitionString(string s) {
-        string temp = "";
-        int count = 0;
+        unordered_set<char> st;
+        int count = 1;
 
         for (char ch : s) {
-            if (temp.find(ch) != string::npos) {
-                temp = "";
-                temp += ch;
+            if (st.count(ch)) {
+                st.clear();
                 count++;
             }
-            else {
-                temp += ch;
-            }
+            st.insert(ch);
         }
 
-        return ++count;
+        return count;
     }
 };
