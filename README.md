@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
