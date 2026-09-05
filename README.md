@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
+| [1222-queens-that-can-attack-the-king](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1222-queens-that-can-attack-the-king) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [1222-queens-that-can-attack-the-king](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1222-queens-that-can-attack-the-king) |
 | [1441-build-an-array-with-stack-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1920-build-array-from-permutation) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1222-queens-that-can-attack-the-king](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1222-queens-that-can-attack-the-king) |
 | [1329-sort-the-matrix-diagonally](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1572-matrix-diagonal-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
