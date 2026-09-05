@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Math
@@ -1193,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Shell
 |  |
 | ------- |
