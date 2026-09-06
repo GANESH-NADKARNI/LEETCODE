@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2683-neighboring-bitwise-xor) |
 | [2784-check-if-array-is-good](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2826-sorting-three-groups](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2826-sorting-three-groups) |
 | [2942-find-words-containing-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [2826-sorting-three-groups](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2826-sorting-three-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1641-count-sorted-vowel-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [2826-sorting-three-groups](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2826-sorting-three-groups) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
