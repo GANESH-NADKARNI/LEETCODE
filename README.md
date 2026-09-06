@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0575-distribute-candies) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0791-custom-sort-string) |
 | [0895-maximum-frequency-stack](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0791-custom-sort-string) |
 | [0809-expressive-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0809-expressive-words) |
