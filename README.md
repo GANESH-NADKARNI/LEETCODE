@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0202-happy-number) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
