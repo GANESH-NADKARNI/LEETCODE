@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3099-harshad-number) |
+| [3100-water-bottles-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3100-water-bottles-ii) |
 | [3101-count-alternating-subarrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3101-count-alternating-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-vowels-game-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
@@ -975,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3100-water-bottles-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3100-water-bottles-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3174-clear-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3271-hash-divided-string) |
