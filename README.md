@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
 | [2396-strictly-palindromic-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
 | [2614-prime-in-diagonal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2652-sum-multiples) |
