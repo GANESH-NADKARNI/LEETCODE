@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0400-nth-digit](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0470-implement-rand10-using-rand7](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1316,4 +1319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
