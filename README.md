@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2032-two-out-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [2032-two-out-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2032-two-out-of-three) |
 | [2405-optimal-partition-of-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2405-optimal-partition-of-string) |
 | [2540-minimum-common-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2784-check-if-array-is-good) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2032-two-out-of-three) |
 | [2317-maximum-xor-after-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
