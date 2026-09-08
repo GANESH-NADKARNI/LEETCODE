@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [4020-elevator-requests-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/4020-elevator-requests-i) |
 ## Greedy
 |  |
 | ------- |
