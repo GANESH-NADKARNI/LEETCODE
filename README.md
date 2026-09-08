@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3110-score-of-a-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3271-hash-divided-string) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3100-water-bottles-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
