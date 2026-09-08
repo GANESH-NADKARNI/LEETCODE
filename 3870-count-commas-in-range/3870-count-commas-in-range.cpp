@@ -1,11 +1,4 @@
 class Solution {
 public:
-    int countCommas(int n) {
-
-        if (n >= 1000) {
-            return n - 999;
-        }
-
-        return 0;
-    }
+    int countCommas(int n) { return max(n - 999, 0); }
 };
