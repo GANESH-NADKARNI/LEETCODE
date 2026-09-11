@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0728-self-dividing-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0464-can-i-win) |
 | [0693-binary-number-with-alternating-bits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1099,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2487-remove-nodes-from-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
