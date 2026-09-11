@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1222-queens-that-can-attack-the-king](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1222-queens-that-can-attack-the-king) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1154-day-of-the-year) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0791-custom-sort-string) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1268-search-suggestions-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
@@ -865,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0223-rectangle-area) |
 | [0478-generate-random-point-in-a-circle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0478-generate-random-point-in-a-circle) |
 | [0593-valid-square](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0593-valid-square) |
+| [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 ## Backtracking
 |  |
@@ -1252,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -1324,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1378,4 +1385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0382-linked-list-random-node) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
