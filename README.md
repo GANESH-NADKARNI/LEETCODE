@@ -983,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0382-linked-list-random-node](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1669-merge-in-between-linked-lists](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
