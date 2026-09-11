@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3941-password-strength](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3941-password-strength) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3794-reverse-string-prefix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
