@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0223-rectangle-area) |
 | [0478-generate-random-point-in-a-circle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0478-generate-random-point-in-a-circle) |
 | [0593-valid-square](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0593-valid-square) |
+| [0836-rectangle-overlap](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 ## Backtracking
