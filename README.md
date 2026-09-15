@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1222-queens-that-can-attack-the-king) |
 | [1441-build-an-array-with-stack-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1603-design-parking-system) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -1122,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -1329,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bucket Sort
 |  |
 | ------- |
