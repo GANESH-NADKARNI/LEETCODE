@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0946-validate-stack-sequences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0791-custom-sort-string) |
+| [0881-boats-to-save-people](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
 | [0809-expressive-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
+| [0881-boats-to-save-people](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
@@ -1067,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0969-pancake-sorting) |
@@ -1416,4 +1420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
