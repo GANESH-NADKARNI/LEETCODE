@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0506-relative-ranks) |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0682-baseball-game) |
@@ -1250,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [1222-queens-that-can-attack-the-king](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1222-queens-that-can-attack-the-king) |
 | [1329-sort-the-matrix-diagonally](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1572-matrix-diagonal-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
