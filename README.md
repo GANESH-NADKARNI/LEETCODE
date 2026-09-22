@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0343-integer-break](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0343-integer-break) |
 | [0464-can-i-win](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0509-fibonacci-number) |
