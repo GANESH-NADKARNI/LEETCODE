@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0941-valid-mountain-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
