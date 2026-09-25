@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3668-restore-finishing-order](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3689-maximum-total-subarray-value-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3697-compute-decimal-representation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3701-compute-alternating-sum) |
