@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2032-two-out-of-three) |
 | [2405-optimal-partition-of-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2405-optimal-partition-of-string) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
