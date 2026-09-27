@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1268-search-suggestions-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1398,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Quicksort
 |  |
 | ------- |
