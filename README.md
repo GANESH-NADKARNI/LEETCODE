@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1401,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
 | ------- |
