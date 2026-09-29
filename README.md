@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2527-find-xor-beauty-of-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
 | [2540-minimum-common-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2540-minimum-common-value) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2614-prime-in-diagonal) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2784-check-if-array-is-good](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1279,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [3546-equal-sum-grid-partition-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
