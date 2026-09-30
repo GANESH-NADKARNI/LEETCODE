@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1859-sorting-the-sentence](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1859-sorting-the-sentence](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1443,4 +1445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0881-boats-to-save-people) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
