@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0895-maximum-frequency-stack) |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1415,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
