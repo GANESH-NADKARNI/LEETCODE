@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2683-neighboring-bitwise-xor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2683-neighboring-bitwise-xor) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2826-sorting-three-groups](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2826-sorting-three-groups) |
@@ -1261,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
