@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2317-maximum-xor-after-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -1304,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [3546-equal-sum-grid-partition-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
