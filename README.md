@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1476-subrectangle-queries](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1476-subrectangle-queries](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1603-design-parking-system) |
 ## Iterator
 |  |
@@ -1307,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [1222-queens-that-can-attack-the-king](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1222-queens-that-can-attack-the-king) |
 | [1329-sort-the-matrix-diagonally](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
+| [1476-subrectangle-queries](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1476-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1672-richest-customer-wealth) |
