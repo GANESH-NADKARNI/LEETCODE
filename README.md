@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3697-compute-decimal-representation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3951-minimum-energy-to-maintain-brightness) |
@@ -1143,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
