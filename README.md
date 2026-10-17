@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1773-count-items-matching-a-rule](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1773-count-items-matching-a-rule](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
