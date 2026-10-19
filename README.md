@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2079-watering-plants) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2826-sorting-three-groups](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2826-sorting-three-groups) |
 ## Hash Table
