@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3668-restore-finishing-order](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3697-compute-decimal-representation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3701-compute-alternating-sum) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2683-neighboring-bitwise-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Linked List
 |  |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3838-weighted-word-mapping) |
