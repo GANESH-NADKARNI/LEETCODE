@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2235-add-two-integers) |
 | [2317-maximum-xor-after-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
 | [2396-strictly-palindromic-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2405-optimal-partition-of-string) |
+| [2409-count-days-spent-together](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
