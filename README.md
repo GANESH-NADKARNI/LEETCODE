@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2317-maximum-xor-after-operations](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2373-largest-local-values-in-a-matrix) |
