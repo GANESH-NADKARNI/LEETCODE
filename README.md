@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2826-sorting-three-groups](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2826-sorting-three-groups) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -1056,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2683-neighboring-bitwise-xor) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
