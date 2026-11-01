@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0575-distribute-candies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0791-custom-sort-string) |
@@ -1001,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
@@ -1256,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Design
