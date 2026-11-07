@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1829-maximum-xor-for-each-query](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1720-decode-xored-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -1407,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1829-maximum-xor-for-each-query](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1829-maximum-xor-for-each-query) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3427-sum-of-variable-length-subarrays) |
