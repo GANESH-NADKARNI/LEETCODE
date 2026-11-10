@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3101-count-alternating-subarrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3101-count-alternating-subarrays) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3146-permutation-difference-between-two-strings) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
