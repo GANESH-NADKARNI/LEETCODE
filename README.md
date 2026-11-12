@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3101-count-alternating-subarrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3101-count-alternating-subarrays) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
