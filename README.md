@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3452-sum-of-good-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3467-transform-array-by-parity) |
@@ -1406,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1442,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1829-maximum-xor-for-each-query) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3546-equal-sum-grid-partition-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
