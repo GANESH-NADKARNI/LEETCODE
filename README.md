@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0682-baseball-game) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0739-daily-temperatures) |
@@ -1243,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0654-maximum-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1424,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1582,4 +1588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1859-sorting-the-sentence) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
