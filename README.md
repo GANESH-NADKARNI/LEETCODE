@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-minimum-additions-to-make-valid-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2826-sorting-three-groups](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2826-sorting-three-groups) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
