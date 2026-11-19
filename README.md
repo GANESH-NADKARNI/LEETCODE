@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2405-optimal-partition-of-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2405-optimal-partition-of-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2864-maximum-odd-binary-number](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
