@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3101-count-alternating-subarrays](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3101-count-alternating-subarrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3467-transform-array-by-parity](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3467-transform-array-by-parity) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2826-sorting-three-groups](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2826-sorting-three-groups) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Heap (Priority Queue)
