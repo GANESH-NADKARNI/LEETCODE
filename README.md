@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2032-two-out-of-three) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
