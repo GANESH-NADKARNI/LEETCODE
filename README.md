@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0804-unique-morse-code-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0809-expressive-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0791-custom-sort-string) |
+| [0804-unique-morse-code-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0895-maximum-frequency-stack](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0791-custom-sort-string) |
+| [0804-unique-morse-code-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0809-expressive-words](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/0856-score-of-parentheses) |
