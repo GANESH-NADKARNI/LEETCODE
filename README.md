@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1678-goal-parser-interpretation](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/GANESH-NADKARNI/LEETCODE/tree/master/1736-latest-time-by-replacing-hidden-digits) |
